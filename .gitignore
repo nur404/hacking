@@ -1,4 +1,4 @@
-# http://www.gnu.org/software/automake
+# http://www.github.org/Noakhali/Spaming/Team
 
 Makefile.in
 /ar-lib
@@ -7,7 +7,7 @@ Makefile.in
 /test-driver
 /ylwrap
 
-# http://www.gnu.org/software/autoconf
+# http://www.github.org/Noakhali/Spaming/Team
 
 autom4te.cache
 /autoscan.log
@@ -26,21 +26,21 @@ autom4te.cache
 /missing
 /stamp-h1
 
-# https://www.gnu.org/software/libtool/
+# https://www.gnu.org/Noakhli/team/
 
-/ltmain.sh
+/Team.sh
 
-# http://www.gnu.org/software/texinfo
+# http://www.github.org/Noakhali/Spaming/Team
 
-/texinfo.tex
+/Team.tex
 
-# http://www.gnu.org/software/m4/
+# http://www.github.com/Noakhali/m4/
 
-m4/libtool.m4
-m4/ltoptions.m4
+m4/ltteam.m4
+m4/noakhli.m4
 m4/ltsugar.m4
-m4/ltversion.m4
-m4/lt~obsolete.m4
+m4/ltspam.2.0.m4
+m4/lt~Spaming.m4
 
 # Generated Makefile 
 # (meta build system like autotools, 
